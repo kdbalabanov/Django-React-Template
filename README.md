@@ -1,5 +1,5 @@
 # Django React Project Template
-Template project for a web application which uses Django as a backend and React as a frontend.
+Template project for a web application which uses Django as a backend and React as a frontend. React is integrated in its own "frontend" Django app.
 
 1. Navigate to the root of the project and execute the following command to install the Django related dependencies:
 ```
