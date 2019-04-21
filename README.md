@@ -11,11 +11,7 @@ npm install
 ```
 3. Execute the following command to compile the React application for development (requires npm to be installed):
 ```
-# Development
 npm run dev
-
-# Production
-npm run build
 ```
 4. Execute the following command to run the Django development server locally:
 ```
