@@ -8,7 +8,7 @@ Clone this repository.
 
 ### Prerequisites
 
-These dependencies are not covered in the automatic installation of dependencies/requireements:
+These dependencies are not covered in the automatic installation of dependencies/requirements:
 ```
 Python 3
 npm
